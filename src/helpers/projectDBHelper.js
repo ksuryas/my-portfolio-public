@@ -12,7 +12,7 @@ const SreeAgastyaPeethamApp = {
     description: 'This is my first live website. Learn about Shri Swami Sugunananda Gayathri and his divinity!',
     languages: 'React.js, JavaScript, HTML5, CSS3',
     appLink: 'http://www.agastyapeetam.org/',
-    githubLink: 'https://github.com/ksuryas/agastya-peetam/',
+    githubLink: 'https://github.com/surya-kasibhatla/agastya-peetam/',
     appLogo: RNGOLogo
 };
 
@@ -24,7 +24,7 @@ const PortfolioApp = {
     description: 'This react application is about me.',
     languages: 'React.js, HTML5, CSS3',
     appLink: '/',
-    githubLink: 'https://github.com/ksuryas/my-portfolio-public/',
+    githubLink: 'https://github.com/surya-kasibhatla/my-portfolio-public/',
     appLogo: PortfolioLogo
 };
 
@@ -36,7 +36,7 @@ const COVIDApp = {
     description: 'This react application covers the core basics of coronavirus. It covers symptoms, precautions, time effectiveness, and the live stats.',
     languages: 'React.js, HTML5, CSS3',
     appLink: 'https://covid101-by-suryak-us.web.app/',
-    githubLink: 'https://github.com/ksuryas/covid-19-dos-and-donts/',
+    githubLink: 'https://github.com/surya-kasibhatla/covid-19-dos-and-donts/',
     appLogo: COVIDLogo
 };
 
@@ -48,7 +48,7 @@ const RBBApp = {
     description: 'This is a react E-Commerce replica. Users can signup/login, build a customized burger, and order it.',
     languages: 'React.js, Redux, JavaScript, HTML5, CSS3',
     appLink: 'https://mcburger-reactjs-app.firebaseapp.com/',
-    githubLink: 'https://github.com/ksuryas/royal-burger-bell/',
+    githubLink: 'https://github.com/surya-kasibhatla/royal-burger-bell/',
     appLogo: BurgerLogo
 };
 
@@ -60,7 +60,7 @@ const MathManiaGame = {
     description: 'This is a math game for grades Pre-K to 3rd and higher.',
     languages: 'CSS3, JavaScript, HTML5',
     appLink: 'http://saketsmathmania.azurewebsites.net/',
-    githubLink: 'https://github.com/ksuryas/MathMania/',
+    githubLink: 'https://github.com/surya-kasibhatla/MathMania/',
     appLogo: GameLogo
 };
 

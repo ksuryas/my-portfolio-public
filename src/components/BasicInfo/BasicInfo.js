@@ -13,12 +13,14 @@ const BasicInfo = () => {
         <Card>
         <img src={Myself} alt="Me" className={classes.Image} />
         <h1>Surya Kasibhatla</h1>
-        <h3>Age: 12</h3>
         <h4><img src={LocationIcon} alt="Location" className={classes.Icon} /> Plano, Texas, United States of America</h4>
-        <h4><a href="mailto:surya.kasibhatla@gmail.com" target="_blank" rel="noopener noreferrer">
+        <h4>
+          <a href="mailto:surya.kasibhatla@gmail.com" target="_blank" rel="noopener noreferrer">
             <img src={MailIcon} alt="Mail ID" className={classes.Icon} />
-            </a> surya.kasibhatla@gmail.com</h4>
+            </a> surya.kasibhatla@gmail.com
+         </h4>
         <h4><img src={EduIcon} alt="Education" className={classes.Icon} /> 7th Grader at Robinson Middle School</h4>
+        <p><a href="https://github.com/surya-kasibhatla/">Follow me on GitHub!</a></p>
         {/* Intro section above */}
 
         <h4><img src={InfoIcon} alt="About Me and my Dream Company" className={classes.Icon} /> About Me and my Dream Company:</h4>   
