@@ -20,7 +20,7 @@ const BasicInfo = () => {
             </a> surya.kasibhatla@gmail.com
          </h4>
         <h4><img src={EduIcon} alt="Education" className={classes.Icon} /> 7th Grader at Robinson Middle School</h4>
-        <p><a href="https://github.com/surya-kasibhatla/">Follow me on GitHub!</a></p>
+        <p><a href="https://github.com/nifty-coder/">Follow me on GitHub!</a></p>
         {/* Intro section above */}
 
         <h4><img src={InfoIcon} alt="About Me and my Dream Company" className={classes.Icon} /> About Me and my Dream Company:</h4>   
