@@ -20,7 +20,8 @@ const BasicInfo = () => {
             </a> surya.kasibhatla@gmail.com
          </h4>
         <h4><img src={EduIcon} alt="Education" className={classes.Icon} /> 7th Grader at Robinson Middle School</h4>
-        <p><a href="https://github.com/nifty-coder/">Follow me on GitHub!</a></p>
+        <p><a href="https://github.com/nifty-coder/" target="_blank" rel="noopener noreferrer">Follow me on GitHub!</a></p>
+        <p><a href="https://www.youtube.com/channel/UCN14MY4VkGEyM1IvfLLgNXQ/" target="_blank" rel="noopener noreferrer">Visit my coding YouTube channel!</a></p>
         {/* Intro section above */}
 
         <h4><img src={InfoIcon} alt="About Me and my Dream Company" className={classes.Icon} /> About Me and my Dream Company:</h4>   
@@ -29,7 +30,7 @@ const BasicInfo = () => {
          I have Cerebral Palsy by birth but I don't let that hinder my ability to learn new skills. 
         I am always determined to learn and achieve greater heights. 
         I'm very open-minded. I always respect others. 
-        I always like to help others and prefer to share my knowledge. 
+        I always like to help others and prefer to share my knowledge. That's why I started my channel!
        <p> 
         My long-term goal is to become an entrepreneur of a technology company. 
        I want to set up a software development company that will make a voice-based operating system 

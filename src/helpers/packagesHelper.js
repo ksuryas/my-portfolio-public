@@ -6,7 +6,7 @@ let packagesDB = [
       githubLink: 'https://github.com/nifty-coder/cra-template-layout-with-navigation',
       description: 'Base template for a responsive web app with Top Bar, Main Content, and Bottom Bar with Themes!',
       linkText: 'Check this package out on NPM!',
-      githubLinkText: 'If you are interested about the code for this, click here to my GitHub repo.'
+      githubLinkText: 'If you are interested about the code for this, click here to see my GitHub repo.'
     }
 ];
 
