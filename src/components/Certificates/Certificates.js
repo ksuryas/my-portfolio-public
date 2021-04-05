@@ -18,9 +18,7 @@ const Certificates = () => {
           <div className={classes.Line}><hr /></div>
          </div>
       ))}
-
-      <p>Next Certificate: React Native - The Practical Guide [2020 Edition] by Maximilian Schwarzmüller (upcoming)</p>
-      </div>
+     </div>
     );
 };
 

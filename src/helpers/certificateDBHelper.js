@@ -1,6 +1,7 @@
 import C1 from '../assets/certificates/CS50.pdf';
 import C2 from '../assets/certificates/Nodejs.pdf';
 import C3 from '../assets/certificates/Reactjs.pdf';
+import C4 from '../assets/certificates/ReactNative.pdf';
 
 const certificatesDB = [
     {
@@ -22,6 +23,13 @@ const certificatesDB = [
       course: 'React - The Complete Guide (incl. Hooks, React Router, Redux) by Maximilian Schwarzmüller',
       pdf: C3,
       pdfText: 'React.js Certificate',
+      elearning: 'Udemy'      
+    },
+    {
+      number: 4,
+      course: 'React Native - The Practical Guide [2020 Edition] by Maximilian Schwarzmüller',
+      pdf: C4,
+      pdfText: 'React Native Certificate',
       elearning: 'Udemy'      
     }
 ];
